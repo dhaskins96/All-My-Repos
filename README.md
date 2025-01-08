@@ -11,6 +11,7 @@
 <h2> Certifications: </h2>
 
 - [Google Cybersecurity](https://coursera.org/share/56ec045706f9a78ed9305b6c6d284308)
+- [ISC2 Certified in Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/certificate/B9PTZBUWP46R)
 
 
 <h2> 🤳 Connect with me:</h2>
